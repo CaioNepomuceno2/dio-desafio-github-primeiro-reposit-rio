@@ -7,13 +7,13 @@ Repositório criado para o Desafio de Projetos
 
 ## Comandos utilizados nas aulas
 
-git help - _Ajuda Geral_
+git help - _Ajuda Geral
 git help <qualquer_comando_git>
-git config --list - _Listar configurações_
+git config --list - _Listar configurações
 
-git config --global user.name "Nome" - _Ajustar usuario_
-git config --global user.email "email' - _Ajustar email_ 
+git config --global user.name "Nome" - _Ajustar usuario
+git config --global user.email "email' - _Ajustar email
 
-git init - _criar repositório_
-git status - _Verificar estado dos arquivos_
-git add . - _adicionar todos os arquivos_
+git init - _criar repositório
+git status - _Verificar estado dos arquivos
+git add . - _adicionar todos os arquivos
