@@ -22,3 +22,7 @@ git init - _criar repositório_
 git status - _Verificar estado dos arquivos_
 
 git add . - _adicionar todos os arquivos_
+
+
+
+Teste
