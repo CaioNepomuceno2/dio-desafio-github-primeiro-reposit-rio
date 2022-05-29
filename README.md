@@ -25,4 +25,13 @@ git add . - _adicionar todos os arquivos_
 
 
 
-Teste
+## Comando utilizado para colocar um arquivo no repositório do GitHub
+
+- git config --global core.fsmonitor true - "Para se livrar da mensagem para sempre" Jose Barboza
+- git config --list 
+- git status 
+- git add . 
+- git commit -m "Assunto" 
+- git push - para subir para o repositório, provavelmente vai pedir o User e senha
+  - User - utilizei meu usuário do Github
+  - Senha - é o token que gerei no GitHub link para auxilio - (https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
