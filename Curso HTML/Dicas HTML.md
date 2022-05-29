@@ -144,4 +144,13 @@ Adicionaremos uma lista de contatos ao rodapé da nossa página, e para isso usa
 
 Crie um elemento ul e dentro dele adicione um <li> com um elemento a, no atributo href adicione o *link* de alguma rede social que você mantenha e, no conteúdo da âncora coloque o nome dessa rede.
 
- 
+ ## Textos e links
+
+ a> ink </a>
+ a href="http://"> Site </a>
+ a target="_blank"> link </a> = abrir esse link em uma nova aba
+
+ ## IMAGES
+
+<img src="http://"> --> localização da imagm
+<img alt="" /> --> mostra a descrição da imagem
