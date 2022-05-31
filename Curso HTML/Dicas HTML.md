@@ -154,3 +154,4 @@ Crie um elemento ul e dentro dele adicione um <li> com um elemento a, no atribut
 
 <img src="http://"> --> localização da imagm
 <img alt="" /> --> mostra a descrição da imagem
+
