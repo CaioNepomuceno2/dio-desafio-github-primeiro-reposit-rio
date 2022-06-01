@@ -1,6 +1,6 @@
 let count = 0;
 
-const CURRENT_NUMBER = document.getElementById('currentNumber');
+const CURRENT_NUMBER = document.getElementById('count');
 
 function increment() {
 	count++;
